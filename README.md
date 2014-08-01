@@ -19,7 +19,7 @@ suitable alternative present on the web.
 
 ## License
 
-The project and documentation, sketches and examples are free software; you can redistribute it and/or modify it
+The Kegabyte project and documentation, sketches and examples are free software; you can redistribute it and/or modify it
 under the terms of the Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) License (http://creativecommons.org/licenses/by-sa/4.0/); either version 4 of the License, or (at your option) any later version.
 
 ## Contribution
